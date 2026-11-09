@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://okvpnbot.github.io/okvpn/sitemap.xml
