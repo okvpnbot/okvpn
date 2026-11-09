@@ -57,7 +57,7 @@
 
 | Устройство | Что поставить | Где взять |
 |---|---|---|
-| iPhone, iPad | **INCY** или **Happ** | App Store: [INCY](https://apps.apple.com/ru/app/incy/id6756943388), [Happ](https://apps.apple.com/ru/app/happ-proxy-utility-plus/id6746188973) |
+| iPhone, iPad | **INCY** или **Happ** | App Store: [INCY](https://apps.apple.com/app/incy/id6756943388), [Happ](https://apps.apple.com/app/happ-proxy-utility/id6504287215) |
 | Android | **INCY**, **Happ** или FlClashX | Google Play: [INCY](https://play.google.com/store/apps/details?id=llc.itdev.incy), [Happ](https://play.google.com/store/apps/details?id=com.happproxy). Если магазин не открывается, на странице подключения есть файл APK |
 | Windows | **INCY**, **Koala Clash** или FlClashX | Установщик по кнопке на странице подключения |
 | macOS | **INCY**, **Koala Clash** или Happ | Файлы для Apple Silicon и Intel на странице подключения, Happ есть в App Store |
@@ -195,7 +195,7 @@ sudo xattr -r -c /Applications/Koala\ Clash.app
 <details>
 <summary><b>Можно вернуть деньги?</b></summary>
 
-Правила возврата описаны в [пользовательском соглашении](https://telegra.ph/Polzovatelskoe-soglashenie-12-19-12), раздел 7. Коротко: возврат возможен, если услуга не была оказана по технической причине на нашей стороне или доступ так и не пришёл. Написать в поддержку нужно в течение 24 часов после оплаты и указать номер заказа. Каждый случай рассматриваем отдельно.
+Правила возврата описаны в [пользовательском соглашении](https://web.okbot.live/cabinet/documents/offer), раздел 7. Коротко: возврат возможен, если услуга не была оказана по технической причине на нашей стороне или доступ так и не пришёл. Написать в поддержку нужно в течение 24 часов после оплаты и указать номер заказа. Каждый случай рассматриваем отдельно.
 
 Чтобы не рисковать, сначала возьмите бесплатные 3 дня.
 
@@ -213,7 +213,7 @@ VPN перестанет подключаться, пока вы не продл
 - Оператор в Telegram: [@okvpnsupportbot](https://t.me/okvpnsupportbot), с 10:00 до 22:00 по Москве.
 - Тикеты: кнопка «🎫 Поддержка» в боте или раздел в кабинете [web.okbot.live](https://web.okbot.live).
 
-Документы: [пользовательское соглашение](https://telegra.ph/Polzovatelskoe-soglashenie-12-19-12), [политика конфиденциальности](https://telegra.ph/Politika-konfidencialnosti-12-19-7).
+Документы: [пользовательское соглашение](https://web.okbot.live/cabinet/documents/offer), [политика конфиденциальности](https://web.okbot.live/cabinet/documents/privacy).
 
 <p align="center">
   <a href="https://t.me/okvpnbot"><img src="docs/btn-bot.svg" alt="Открыть @okvpnbot" height="56"></a>
